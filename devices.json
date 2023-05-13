@@ -1,0 +1,45 @@
+[
+  {
+    "DeviceId": "device001",
+    "Name": "Smart Light",
+    "Type": "Light",
+    "Description": "Smart light in the living room",
+    "Location": "Living Room",
+    "Status": "Ok",
+    "IsOn": false,
+    "Color": "White",
+    "Brightness": 50
+  },
+  {
+    "DeviceId": "device002",
+    "Name": "Smart AC",
+    "Type": "AC",
+    "Description": "Smart AC in the living room",
+    "Location": "Living Room",
+    "Status": "Ok",
+    "IsOn": false,
+    "Temperature": 72,
+    "Humidity": 50
+  },
+  {
+    "DeviceId": "device003",
+    "Name": "Smart Camera",
+    "Type": "Camera",
+    "Description": "Smart camera on the front door",
+    "Location": "Front Door",
+    "Status": "NeedsMaintenance",
+    "IsOn": true,
+    "IsRecording": true
+  },
+  {
+    "DeviceId": "device004",
+    "Name": "Smart Fire Alarm",
+    "Type": "Alarm",
+    "Description": "Smart fire alarm for the kitchen",
+    "Location": "Kitchen",
+    "Status": "Ok",
+    "IsOn": true,
+    "SmokeLevel": 0.7,
+    "IsTriggered": false
+  }
+]
